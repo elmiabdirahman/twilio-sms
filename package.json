@@ -1,0 +1,23 @@
+{
+  "name": "twilio-sms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmiabdirahman/twilio-sms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elmiabdirahman/twilio-sms/issues"
+  },
+  "homepage": "https://github.com/elmiabdirahman/twilio-sms#readme",
+  "dependencies": {
+    "twilio": "^3.39.2"
+  }
+}
